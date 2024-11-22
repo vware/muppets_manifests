@@ -171,6 +171,10 @@
   <!-- Razer cheryl -->
   <project name="TheMuppets/proprietary_vendor_razer_cheryl" path="vendor/razer/cheryl" groups="muppets,muppets_cheryl" clone-depth="1" />
 
+  <!-- Samsung a71 -->
+  <project name="TheMuppets/proprietary_vendor_samsung_a71-common" path="vendor/samsung/a71-common" groups="muppets,muppets_a71" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_a71" path="vendor/samsung/a71" groups="muppets,muppets_a71" clone-depth="1" />
+
   <!-- Samsung gta4l -->
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" groups="muppets,muppets_gta4l,muppets_gta4lwifi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l" path="vendor/samsung/gta4l" groups="muppets,muppets_gta4l" clone-depth="1" />
