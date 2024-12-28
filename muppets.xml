@@ -198,6 +198,21 @@
   <project name="TheMuppets/proprietary_vendor_sony_pioneer" path="vendor/sony/pioneer" groups="muppets,muppets_pioneer" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_sony_voyager" path="vendor/sony/voyager" groups="muppets,muppets_voyager" clone-depth="1" />
 
+  <!-- Sony SM8250 -->
+  <project name="TheMuppets/proprietary_vendor_sony_pdx203" path="vendor/sony/pdx203" groups="muppets,muppets_pdx203" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_pdx206" path="vendor/sony/pdx206" groups="muppets,muppets_pdx206" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_sm8250-common" path="vendor/sony/sm8250-common" groups="muppets,muppets_pdx203,muppets_pdx206" clone-depth="1" />
+
+  <!-- Sony SM8350 -->
+  <project name="TheMuppets/proprietary_vendor_sony_pdx214" path="vendor/sony/pdx214" groups="muppets,muppets_pdx214" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_pdx215" path="vendor/sony/pdx215" groups="muppets,muppets_pdx215" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_sm8350-common" path="vendor/sony/sm8350-common" groups="muppets,muppets_pdx214,muppets_pdx215" clone-depth="1" />
+
+  <!-- Sony SM8550 -->
+  <project name="TheMuppets/proprietary_vendor_sony_pdx234" path="vendor/sony/pdx234" groups="muppets,muppets_pdx234" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_pdx237" path="vendor/sony/pdx237" groups="muppets,muppets_pdx237" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_sony_sm8550-common" path="vendor/sony/sm8550-common" groups="muppets,muppets_pdx234,muppets_pdx237" clone-depth="1" />
+
   <!-- Xiaomi MSM8996 -->
   <project name="TheMuppets/proprietary_vendor_xiaomi_gemini" path="vendor/xiaomi/gemini" groups="muppets,muppets_gemini" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8996-common" path="vendor/xiaomi/msm8996-common" groups="muppets,muppets_gemini,muppets_natrium" clone-depth="1" />
