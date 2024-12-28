@@ -202,4 +202,13 @@
   <project name="TheMuppets/proprietary_vendor_xiaomi_gemini" path="vendor/xiaomi/gemini" groups="muppets,muppets_gemini" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_msm8996-common" path="vendor/xiaomi/msm8996-common" groups="muppets,muppets_gemini,muppets_natrium" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_xiaomi_natrium" path="vendor/xiaomi/natrium" groups="muppets,muppets_natrium" clone-depth="1" />
+
+  <!-- Xiaomi SDM845 -->
+  <project name="TheMuppets/proprietary_vendor_xiaomi_beryllium" path="vendor/xiaomi/beryllium" groups="muppets,muppets_beryllium" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_dipper" path="vendor/xiaomi/dipper" groups="muppets,muppets_dipper" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_equuleus" path="vendor/xiaomi/equuleus" groups="muppets,muppets_equuleus" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_perseus" path="vendor/xiaomi/perseus" groups="muppets,muppets_perseus" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_polaris" path="vendor/xiaomi/polaris" groups="muppets,muppets_polaris" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_sdm845-common" path="vendor/xiaomi/sdm845-common" groups="muppets,muppets_beryllium,muppets_dipper,muppets_equuleus,muppets_perseus,muppets_polaris,muppets_ursa" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_xiaomi_ursa" path="vendor/xiaomi/ursa" groups="muppets,muppets_ursa" clone-depth="1" />
 </manifest>
