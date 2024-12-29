@@ -215,6 +215,11 @@
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l" path="vendor/samsung/gta4l" groups="muppets,muppets_gta4l" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4lwifi" path="vendor/samsung/gta4lwifi" groups="muppets,muppets_gta4lwifi" clone-depth="1" />
 
+  <!-- Samsung gta4xl -->
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4xl" path="vendor/samsung/gta4xl" groups="muppets,muppets_gta4xl" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4xl-common" path="vendor/samsung/gta4xl-common" groups="muppets,muppets_gta4xl,muppets_gta4xlwifi" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_gta4xlwifi" path="vendor/samsung/gta4xlwifi" groups="muppets,muppets_gta4xlwifi" clone-depth="1" />
+
   <!-- Samsung gts4lv -->
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv-common" path="vendor/samsung/gts4lv-common" groups="muppets,muppets_gts4lv,muppets_gts4lvwifi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gts4lv" path="vendor/samsung/gts4lv" groups="muppets,muppets_gts4lv" clone-depth="1" />
