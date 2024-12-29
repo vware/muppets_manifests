@@ -198,6 +198,18 @@
   <project name="TheMuppets/proprietary_vendor_samsung_a71-common" path="vendor/samsung/a71-common" groups="muppets,muppets_a71" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_a71" path="vendor/samsung/a71" groups="muppets,muppets_a71" clone-depth="1" />
 
+  <!-- Samsung Exynos 9820 -->
+  <project name="TheMuppets/proprietary_vendor_samsung_beyond0lte" path="vendor/samsung/beyond0lte" groups="muppets,muppets_beyond0lte" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_beyond1lte" path="vendor/samsung/beyond1lte" groups="muppets,muppets_beyond1lte" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_beyond2lte" path="vendor/samsung/beyond2lte" groups="muppets,muppets_beyond2lte" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_beyondx" path="vendor/samsung/beyondx" groups="muppets,muppets_beyondx" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_d1" path="vendor/samsung/d1" groups="muppets,muppets_d1" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_d1x" path="vendor/samsung/d1x" groups="muppets,muppets_d1x" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_d2s" path="vendor/samsung/d2s" groups="muppets,muppets_d2s" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_d2x" path="vendor/samsung/d2x" groups="muppets,muppets_d2x" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_exynos9820-common" path="vendor/samsung/exynos9820-common" groups="muppets,muppets_beyond0lte,muppets_beyond1lte,muppets_beyond2lte,muppets_beyondx,muppets_d1,muppets_d1x,muppets_d2s,muppets_d2x,muppets_f62" clone-depth="1" />
+  <project name="TheMuppets/proprietary_vendor_samsung_f62" path="vendor/samsung/f62" groups="muppets,muppets_f62" clone-depth="1" />
+
   <!-- Samsung gta4l -->
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l-common" path="vendor/samsung/gta4l-common" groups="muppets,muppets_gta4l,muppets_gta4lwifi" clone-depth="1" />
   <project name="TheMuppets/proprietary_vendor_samsung_gta4l" path="vendor/samsung/gta4l" groups="muppets,muppets_gta4l" clone-depth="1" />
